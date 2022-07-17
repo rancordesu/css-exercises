@@ -1,0 +1,14 @@
+.me,.nome {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
+}
+
+.me {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.nome {
+    background-color: yellow;
+    color: black;
+}
