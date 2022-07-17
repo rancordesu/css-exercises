@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(233, 184, 192);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#one {
+    font-size: 36px;
+    color: #000fff;
+}
+
+.exception {
+    font-size: 24px;
+}
+
+#another {
+    background-color: rgb(84, 230, 84);
+    font-size: 24px;
+    font-weight: bold;
+}
